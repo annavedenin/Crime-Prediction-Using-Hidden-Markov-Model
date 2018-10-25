@@ -10,9 +10,19 @@ The program improves statistical calculation method of time series family algory
    
  ![usecase](https://user-images.githubusercontent.com/44424775/47483417-dd2d2f80-d841-11e8-9f67-70c214bbb196.PNG) 
   
+  This program was writen as final project of Software Engineering Department at ORT Braude College of Engineering ( july 2018 ) 
    
-   
-  
+* The program expect to recive .csv of the format:  [date,IUCR,Community Area,Year]
+
+* The data may be found on Chicago Data Portal or be downloaded from :
+https://data.cityofchicago.org/Public-Safety/2003-to-Present/vb24-695p/data
+
+[After you enter the link press "Export" and selet "CSV" option]
+
+* First upload must be from 2003, in future upload you may upload file from last date up to present.
+we provided a file for first upload that is updated up to 06/23/2018 for convenience.
+
+* If for some Community Area and IUSR the result is NAN this shown that there where no crimes of that type in the area
  
 
  
