@@ -8,7 +8,7 @@ The program improves statistical calculation method of time series family algory
 
  ![flowchart](https://user-images.githubusercontent.com/44424775/47483041-e8339000-d840-11e8-96d6-939d7c03a827.PNG)
    
-  
+ ![usecase](https://user-images.githubusercontent.com/44424775/47483417-dd2d2f80-d841-11e8-9f67-70c214bbb196.PNG) 
   
    
    
